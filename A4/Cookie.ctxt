@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cookie
+comment0.text=\r\n\ Programmer\:\ \ Sarah\ Ethawi\r\n\ Class\:\ \ \ \ \ \ \ CS30S\r\n\r\n\ Assignment\:\ \ A4.0\r\n\r\n\ Description\:\ Cookie\ class\r\n
+comment1.params=
+comment1.target=Cookie()
+comment2.params=name
+comment2.target=Cookie(java.lang.String)
+comment3.params=
+comment3.target=Jar\ getJar()
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=
+comment5.target=java.lang.String\ getFlavour()
+comment6.params=flavour
+comment6.target=void\ setFlavour(java.lang.String)
+comment7.params=jar
+comment7.target=void\ setJar(Jar)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=int\ getNextID()
+numComments=10
